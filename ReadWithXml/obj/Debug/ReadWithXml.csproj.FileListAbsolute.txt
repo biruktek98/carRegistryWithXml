@@ -1,0 +1,10 @@
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\bin\Debug\ReadWithXml.exe.config
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\bin\Debug\ReadWithXml.exe
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\bin\Debug\ReadWithXml.pdb
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\obj\Debug\ReadWithXml.csprojAssemblyReference.cache
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\obj\Debug\ReadWithXml.Form1.resources
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\obj\Debug\ReadWithXml.Properties.Resources.resources
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\obj\Debug\ReadWithXml.csproj.GenerateResource.cache
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\obj\Debug\ReadWithXml.csproj.CoreCompileInputs.cache
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\obj\Debug\ReadWithXml.exe
+C:\Users\Biruk\source\repos\ReadWithXml\ReadWithXml\obj\Debug\ReadWithXml.pdb
